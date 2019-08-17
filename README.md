@@ -17,3 +17,13 @@ Author 민경재 <br>
 > 24시간이 지난 댓글 년,월,일로 보이기 <br>
 > 모달을 이용한 각 기능 알림 <br>
 
+### Screenshots
+
+<div>
+    <img width ="300" src = "https://user-images.githubusercontent.com/43604493/63211231-7d38aa00-c12f-11e9-90a9-0b79984a635a.JPG">
+    <img width ="300" src = "https://user-images.githubusercontent.com/43604493/63211232-7d38aa00-c12f-11e9-8487-8c3264fc8d03.JPG">
+</div>
+<div>
+    <img width ="300" src = "https://user-images.githubusercontent.com/43604493/63211229-7ca01380-c12f-11e9-9674-df03ea42bc6f.JPG">
+    <img width ="300" src = "https://user-images.githubusercontent.com/43604493/63211230-7d38aa00-c12f-11e9-8970-4cd2abed0449.JPG">
+</div>
